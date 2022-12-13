@@ -4,5 +4,4 @@ id_name_specilist_timing_qualification_roomNb
 17_Dr.Amy_Surgeon_8pm-2am_BDM_8
 33_Dr.David_Artho_10am-4pm_MBBS,MS_40
 123_Dr. Ross_Headackes_8pm-10am_Mst_102
-66_Dr. Mike kale_Heart_9am-3pm_MS_2
-62_Dr. Smith_Heart_6am-11am_PHD_12
+66_Dr. Mike_Heart_9am-5pm_MS_2
